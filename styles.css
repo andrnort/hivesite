@@ -407,3 +407,13 @@ footer {
 .dropdown-item:hover {
     background-color: #424e8f;
 }
+
+.three-column {
+    float: left;
+    width: 33.33%;
+}
+
+.two-column {
+    float: left;
+    width: 50%;
+}
