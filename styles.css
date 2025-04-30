@@ -417,3 +417,7 @@ footer {
     float: left;
     width: 50%;
 }
+
+.hfbl-info {
+    text-align: center;
+}
